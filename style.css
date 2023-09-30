@@ -1,0 +1,180 @@
+.scar {
+    background-color: rgba(119, 163, 163, 0.089);
+    position: relative;
+}
+
+.card-img-top2 {
+    width: 190px;
+}
+
+.card-img-top1 {
+    width: 255px;
+}
+
+.for {
+    color: #0b198f;
+}
+
+.for2 {
+    color: rgba(30, 30, 163, 0.918);
+}
+
+.for3 {
+    color: rgba(16, 16, 100, 0.918);
+}
+
+.meh {
+    justify-content: center;
+}
+
+.melt {
+    color: #ee6c20;
+}
+
+.bi-check-square-fill:hover {
+    color: #0d6efd;
+
+}
+
+.happy:hover {
+
+    background-color: #0d6efd;
+    color: white;
+}
+
+.hey .read-more{
+    color: #f68c09;
+}
+.nah .read-more{
+    color: #08da4e;
+}
+.therapy .read-more{
+    color: #e9222c;
+}
+.session .read-more{
+    color: #b50edf;
+}
+.time .read-more{
+    color: #f51f9c;
+}
+.read-more{
+    font-weight: 600;
+    align-items: center;
+}
+.btn:hover{
+    background-color: #0d6efd;
+    color: white;
+}
+
+.happy:hover .read-more {
+    color: white;
+}
+.hey:hover .read-more{
+    color: white;
+}
+.nah:hover .read-more{
+    color: white;
+}
+.time:hover .read-more{
+    color: white;
+}
+.therapy:hover .read-more{
+    color: white;
+}
+.session:hover .read-more{
+    color: white;
+}
+.sucks:hover .btn-primary{
+    background-color: #0b198f;
+    color: white;
+}
+
+.bi-arrow-right:hover {
+    color: white;
+}
+
+.read-more {
+    text-decoration: none;
+}
+
+.hey:hover {
+    background-color: #ee6c20;
+    color: white;
+}
+
+.nah:hover {
+    background-color: #08da4e;
+    color: white;
+}
+
+.therapy:hover {
+    background-color: #e9222c;
+    color: white;
+}
+
+.session:hover {
+    background-color: #b50edf;
+    color: white;
+}
+
+.time:hover {
+    background-color: #f51f9c;
+    color: white;
+}
+
+.bullet {
+    color: #2db6fa;
+    background-color: #dbf3fe;
+    border-radius: 5px;
+
+}
+.if{
+    color: #f68c09;
+    background: #fde3c4;
+    border-radius: 5px;
+}
+.you{
+    color: #08da4e;
+    background: #cffddf;
+    border-radius: 5px;
+}
+
+.happy:hover .bullet {
+    background-color: white;
+
+    color: #2db6fa;
+}
+
+.hey:hover .if{
+    background-color: white;
+    color: #f68c09;
+}
+.nah:hover .you{
+    background-color: white;
+    color: #08da4e;
+}
+.want{
+    color: #e9222c;
+    background: #fef7f8;
+    border-radius: 5px;
+}
+.therapy:hover .want{
+    background-color: white;
+    color: #e9222c;
+}
+.love{
+    color: #b50edf;
+    background: #f8e4fd;
+    border-radius: 5px;
+}
+.session:hover .love{
+    background-color: white;
+}
+.ice{
+    color: #f51f9c;
+    background: #feecf7;
+    border-radius: 5px;
+}
+.time:hover .ice{
+    background-color: white;
+}
